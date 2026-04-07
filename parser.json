@@ -1,7 +1,7 @@
 {
-  "lang": "gowork",
-  "url": "https://github.com/omertuc/tree-sitter-go-work",
+  "location": null,
   "semver": false,
-  "parser_version": "949a8a470559543857a62102c84700d291fc984c",
-  "location": null
+  "url": "https://github.com/omertuc/tree-sitter-go-work",
+  "lang": "gowork",
+  "parser_version": "949a8a470559543857a62102c84700d291fc984c"
 }
